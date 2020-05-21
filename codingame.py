@@ -14,7 +14,7 @@ def distancecalc(longitudeA, latitudeA, longitudeB, latitudeB):
 longitudeA =  float(input().replace(',', '.'))
 latitudeA = float(input().replace(',', '.'))
 n = int(input())
-
+smallestD = 0
 for i in range(n):
     defib = input().split(";")
 
@@ -24,8 +24,8 @@ for i in range(n):
     latitudeB = float(defib[5].replace(',', '.'))
     # The math
     distancem = distancecalc(longitudeA, latitudeA, longitudeB, latitudeB)
-    smallestD = 0
-    if distancem < smallestD or smallestD == 0:
+   
+    if distancem <= smallestD or smallestD == 0:
         smallestD = distancem
         location = defib[1]
 
