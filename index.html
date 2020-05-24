@@ -1,18 +1,47 @@
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title>my-first-website</title>
-  <LINK href="styles.css" rel="stylesheet" type="text/css">
+    <meta charset="UTF-8">
+    <title>PigLatin</title>
+    <style>
+     #myHeader {
+          background-color: lightblue;
+          color: black;
+          padding: 40px;
+          text-align: center;
+      }
+
+    </style>
+
+
 </head>
-
 <body>
-
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
-
-<!-- Change this code here by copy and pasting your template on line 15 -->
-<p>Welcome to your first GitHub Pages website!</p>
+    <h1 id="myHeader">Pig Latin</h1>
+    <input type="text" id="input" name="input"><br><br>
+    <button type="button" onclick="convert();">Convert to Pig Latin</button>
+    <p id="paragraph"></p>
 
 </body>
+<script>
+    // javascript programming language
+     function convert(){
+            // take input from textbox
+            var inputText = document.getElementById("input").value;
+            // make input string into array to rearrange into pig latin
+            var inputText = inputText.split("");
+            // Take first letter and place it at end of array
+            inputText.splice(inputText.length, 0, inputText[0]);
+            // remove original first letter
+            inputText.splice(0, 1);
+            // Add "ay" to make it pig latin
+            inputText.splice(inputText.length, 0, "ay");
+            // Rejoin inputText array as string
+            inputText = inputText.join("");
+            // Output inputText variable, which is now piglatin to a html paragraph
+            document.getElementById("paragraph").innerHTML = inputText;
+
+     }
+
+
+</script>
 </html>
