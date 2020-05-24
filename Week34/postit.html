@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shin</title>
+    <style>
+        .container{
+            display: block;
+            height: 300px;
+            border: 15px solid khaki;
+            background-color: khaki;
+            color: purple;
+            font-size: 3em;
+        }
+
+
+
+
+    </style>
+</head>
+<body>
+ <input type="text" id="input" onchange="up()">Enter some text<br><br>
+<div class="container">
+    <p1 id="par1"></p1>
+</div>
+</body>
+<script>
+    function up() {
+        var inputText = document.getElementById("input").value;
+        document.getElementById("par1").innerHTML = inputText;
+    }
+
+</script>
+</html>
