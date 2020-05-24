@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Is my word a Palindrome?</h1>
+<p1>A palindrome word reads the same forwards and backwords, like "racecar"</p1><b></b>
+<p id="blank"></p>
+<label for="inputBox">Type in a word:</label>
+<input type="text" id="inputBox" onchange="isPalindrome()" Enterword><b></b>
+</body>
+<script>
+    function isPalindrome() {
+        // read input as variable
+        var input = document.getElementById("inputBox").value;
+        // make reverse of input by turning into array, using reverse() then turning back into string
+        reverse = input.split("").reverse().join("");
+        // if statement compares if palindrome or not, based on outcome change text in paragraph
+        if (input == reverse) {
+            document.getElementById("blank").innerHTML = "Your word is a palindrome";
+        }else{
+            document.getElementById("blank").innerHTML = "Your word is not a palindrome";
+        }
+    }
+
+</script>
+</html>
