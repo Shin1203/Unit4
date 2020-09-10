@@ -10,11 +10,17 @@ Develop a website for client that will fufill multiple purposes. The website has
 
 ## Success Criteria
 1.) The website features can only be accessed by client, login/user feature
+
 2.) User data- login and password should be secured.
+
 3.) The website should be self-explanatory for the most-part, user should be able to navigate it quickly and easily.
+
 4.) The website has a link to record attendance on any given day, the members of the club will be logged so that they may be selected.
+
 5.)The website stores all attendance on a database. 
+
 6.)All climbing equipment will also be stored on a seperate database
+
 7.)Both databases have edit and search functions.
 
 
