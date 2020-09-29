@@ -9,10 +9,15 @@ Develop a website for client that will fufill multiple purposes. The website has
 
 ## Solution justification
 -Website was chosen as it will be easy to access- There is no installation process like with applications, and can be accessed on both computer and phone.
+
 -Login/security functionality is there so that only the client can edit the club attendance, and nobody can come in and alter it.
+
 -For taking attendance, using a form built on the website is much quicker than going into the databse and editing elements individually.
+
 -The database is useful as it sorts the information taken from all the attendance forms, and so information can be quickly interpreted from it.
+
 -Editing of the equipment database will be direct, as additions and changes won't have to be made as frequently as attendance.
+
 -As a whole, the website will centralize all information on climbing club, making everything easier to organize and find. It wil also make recording attendance and editing equipment inventory much easier, satisfying the needs that arise from the client's problem.
 
 
