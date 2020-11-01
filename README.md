@@ -1,24 +1,21 @@
 # Criteria A- Planning
 
 ## Definition of the problem
-The client is climbing club leader Sara Goh. Sara would like to be able to take attendance faster, and keep track of her inventory of climbing equipment, and have that information stored in an easily accesible place. Using google sheets to take attendance and stock means that she has to go in and edit things column by column, which takes time and can be confusing, especially for week by week attendance.
-
+The client of this project is ISAK'S climbing club leader Sara Goh. As the leader of climbing club, Sara's responsibility includes taking attendance and making sure equipment and budget are set right, it is important to her that she gets this information right. Sara would like to be able to take attendance faster, and keep track of her inventory of climbing equipment. Using google sheets to take attendance and stock means that she has to go in and edit things column by column, which takes time and can be confusing, especially for week by week attendance. 
 
 ## Solution to problem
-Develop a website for client that will fufill multiple purposes. The website has a form functionality that can take attendance on the given day, attendance will be stored in a database organized by date and member. At any time the database can be accessed through the website, and be edited. A similar database will be created for gym equipment, possibly budget. The website should be an easy to navigate central hub of information for the client to keep track of the club. 
+Develop a website for client that will fufill multiple purposes. The website has a form functionality that can take attendance on the given day, attendance will be stored in a database organized by date and member. At any time the database can be accessed through the website, and be edited. A similar database will be created for gym equipment, possibly budget. The website should be an easy to navigate central hub of information for the client to keep track of the club. Python Flask will be used to code the website. 
 
 ## Solution justification
--Website was chosen as it will be easy to access- There is no installation process like with applications, and can be accessed on both computer and phone.
+-Website was chosen as it will be easy to access- There is no installation process like with applications, and can be accessed on both computer and phone. Versatility is important for usability. Ontop of this, the client is familiar with technology, and so will have no problems working with a website style database, and can be taught quickkly on how to use the website.
 
--Login/security functionality is there so that only the client can edit the club attendance, and nobody can come in and alter it.
+-A database style form of data-storing was chosen, as it can be organized and as such specific information can be quickly found. 
 
--For taking attendance, using a form built on the website is much quicker than going into the databse and editing elements individually.
+-Editing of the equipment database will be direct, as there isn't a large amount of constantly changing information needed, and as such the editing of information can be efficient even if done directly.
 
--The database is useful as it sorts the information taken from all the attendance forms, and so information can be quickly interpreted from it.
+-Storing of the attendance will go through a form, as it will provide a quick way for the client to take attendance without taking time to directly edit database.
 
--Editing of the equipment database will be direct, as additions and changes won't have to be made as frequently as attendance.
-
--As a whole, the website will centralize all information on climbing club, making everything easier to organize and find. It wil also make recording attendance and editing equipment inventory much easier, satisfying the needs that arise from the client's problem.
+-In terms of coding language, Python and Flask were chosen for a couple reasons. Python was chosen because it is a widely used, versatile language with much documentation and many libraries in which functions can be drawn from, this will make processes efficient and prevent myself from having to code every function, improving time efficiency on the project. Python is also an object-oriented language, which will provide more efficiency in the code through reusability of objects, aswell as modularity. 
 
 
 ## Success Criteria
