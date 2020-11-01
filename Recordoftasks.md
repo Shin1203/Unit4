@@ -1,6 +1,6 @@
 
 |Task Numner| Planned Action | Expected Outcome | Date | time estimated | Criteria |
-|-----------|---------------|----------------|--------------|-----------------|--------|-----|
+|-----------|---------------|----------------|--------------|-----------------|--------|
 |     1     |Finding a client and initial discussion with client(Sara)||9/5/2020|15 min||A||
 |     2     |Second discussion with client| Decide on solution to problem and goals moving forward, general discussion|9/7/2020|20 min|A|
 |     3     |Tutoring session 1 with Dr.Ruben|Learning how to make basic website using Html, PHP|10/3/2020|1hr30min|||
