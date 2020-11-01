@@ -15,7 +15,7 @@ Develop a website for client that will fufill multiple purposes. The website has
 
 -Storing of the attendance will go through a form, as it will provide a quick way for the client to take attendance without taking time to directly edit database.
 
--In terms of coding language, Python and Flask were chosen for a couple reasons. Python was chosen because it is a widely used, versatile language with much documentation and many libraries in which functions can be drawn from, this will make processes efficient and prevent myself from having to code every function, improving time efficiency on the project. Python is also an object-oriented language, which will provide more efficiency in the code through reusability of objects, aswell as modularity. Flask is a web-design framework which is coded and used in conjunction with python. Flask was chosen for its compatability with python, as well as its versatility due to its usage of libraries to guide programming.
+-In terms of coding language, Python and Flask were chosen for a couple reasons. Python was chosen because it is a widely used, versatile language with much documentation and many libraries in which functions can be drawn from, this will make processes efficient and prevent myself from having to code every function, improving time efficiency on the project. Python is also an object-oriented language, which will provide more efficiency in the code through reusability of objects, aswell as modularity. Flask is a web-design framework which allows for creating organized databases, and is coded and used in conjunction with python. Flask was chosen for its compatability with python, as well as its versatility due to its usage of libraries to guide programming.
 
 
 ## Success Criteria
