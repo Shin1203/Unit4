@@ -7,6 +7,7 @@
 |     4     |Tutoring session 1 with Dr.Ruben|Learning how to make basic website using Html, PHP|10/3/2020|1hr30min|C|
 |     5     |Creating flow Diagram for website | Help visualize processes and overall structure of website programming | 10/6/2020 |1 hour|B|
 |     6   |Tutoring session 2 with Dr.Ruben|Learning the basics of flask python|10/17/2020 |1hr30min|C|
+|      7    | Self-Study/research on flask and SQL | achieve a better base understanding of flask and SQL | 10/18/2020 | 2hr | C|
 
 
 
