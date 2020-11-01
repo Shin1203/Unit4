@@ -15,25 +15,26 @@ Develop a website for client that will fufill multiple purposes. The website has
 
 -Storing of the attendance will go through a form, as it will provide a quick way for the client to take attendance without taking time to directly edit database.
 
--In terms of coding language, Python and Flask were chosen for a couple reasons. Python was chosen because it is a widely used, versatile language with much documentation and many libraries in which functions can be drawn from, this will make processes efficient and prevent myself from having to code every function, improving time efficiency on the project. Python is also an object-oriented language, which will provide more efficiency in the code through reusability of objects, aswell as modularity. 
+-In terms of coding language, Python and Flask were chosen for a couple reasons. Python was chosen because it is a widely used, versatile language with much documentation and many libraries in which functions can be drawn from, this will make processes efficient and prevent myself from having to code every function, improving time efficiency on the project. Python is also an object-oriented language, which will provide more efficiency in the code through reusability of objects, aswell as modularity. Flask is a web-design framework which is coded and used in conjunction with python. Flask was chosen for its compatability with python, as well as its versatility due to its usage of libraries to guide programming.
 
 
 ## Success Criteria
-1.) The website features can only be accessed by client, login/user feature
 
-2.) User data- login and password should be secured.
+1.) User data- login and password should be secured.
 
-3.) The website should be self-explanatory for the most-part, user should be able to navigate it quickly and easily.
+2.) The client finds the website easy to navigate and use, and website provides client efficiency.
 
-4.) The website has a form to record attendance on any given day, the members of the club will be logged so that they may be selected.
+3.) The website has a form to record attendance on any given day, the members of the club will be logged so that they may be selected.
 
-5.)The website stores all attendance on a database. 
+4.)The website stores all attendance on a database. 
 
-6.)All climbing equipment will also be stored on a seperate database
+5.)All climbing equipment will also be stored on a seperate database
 
-7.)Both databases have edit and search functions.
+6.)Both databases have edit and search functions.
 
-8.)The website is usable on both phone and computer
+7.)The website is usable on both phone and computer
+
+8.)The client finds the website  
 
 ## 
 
