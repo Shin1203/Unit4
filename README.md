@@ -38,4 +38,11 @@ Develop a website for client that will fufill multiple purposes. The website has
 
 # Critereon B- Design
 
+## Concept Sketches of various website interfaces
+Below are first-prototype illustrations for the various pages/interfaces the website wil have, and how they will work.
+
+### Login Menu Interface
+The first menu that will appear on visit to the website is the login, here the client can either choose to login or create a new account.
+
+
 
