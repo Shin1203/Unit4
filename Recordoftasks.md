@@ -8,6 +8,12 @@
 |     5     |Creating flow Diagram for website | Help visualize processes and overall structure of website programming | 10/6/2020 |1 hour|B|
 |     6   |Tutoring session 2 with Dr.Ruben|Learning the basics of flask python|10/17/2020 |1hr30min|C|
 |      7    | Self-Study/research on flask and SQL | achieve a better base understanding of flask and SQL | 10/18/2020 | 2hr | C|
+|     8     |Python-Flask With Tim tutorials 1-4 | Understand how to use Flask | 11/4/2020 | 1hr30min | C|
+|     9     |Python-Flask with Tim tutorials 5-6 | Understand how to use Flask | 11/10/2020 | 1hr30min | C|
+|   10      |Python-Flask with Tim tutorials 7-8| Understanding the basics of integrating SQLAlchemy into pythonflask |11/18/2020 | 1hr| C|
+| 11        |Design login and Mainmenu prototype interface | have a basic interface and framework of website | 11/18/2020 | 2hr| C|
+|    12     |Design and Code login, mainmenu, logout functionalities| have a working login, logout, mainmenu | 11/21/2020 | 5hr | C|
+|    13     |Create basic database with SQLAlchemy | Learning how to use SQLAlchemy | 11/24/2020 | 3hr | C|
 
 
 
