@@ -17,7 +17,7 @@
 |    14     |Implementing database to application | finish database class setups | 1/19/2021 |  1hrs | C|
 |     15    |Implementing edit/delete/create and creating forms| working edit/delete/create function with interface |1/20/2021 | 3hrs |C|  
 | 16 | General development | bug fixes and interface updates | 1/21/2021 | 3 hrs| C|
-
+| 17 | Bug fixes | bug fixes  | 1/22/2021 | 4hrs | C|
 
 
 
