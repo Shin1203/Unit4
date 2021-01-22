@@ -14,6 +14,10 @@
 | 11        |Design login and Mainmenu prototype interface | have a basic interface and framework of website | 11/18/2020 | 2hr| C|
 |    12     |Design and Code login, mainmenu, logout functionalities| have a working login, logout, mainmenu | 11/21/2020 | 5hr | C|
 |    13     |Create basic database with SQLAlchemy | Learning how to use SQLAlchemy | 11/24/2020 | 3hr | C|
+|    14     |Implementing database to application | finish database class setups | 1/19/2021 |  1hrs | C|
+|     15    |Implementing edit/delete/create and creating forms| working edit/delete/create function with interface |1/20/2021 | 3hrs |C|  
+| 16 | General development | bug fixes and interface updates | 1/21/2021 | 3 hrs| C|
+
 
 
 
